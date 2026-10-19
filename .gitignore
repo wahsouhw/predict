@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# 模型权重（769M，不上传）
+chronos-t5-base/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# 运行产物
+outputs/
+logs/
+results/
+checkpoints/
+output.txt
+req_status1.json

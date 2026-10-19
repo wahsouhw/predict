@@ -1,0 +1,8 @@
+requests
+fastapi
+uvicorn
+pymysql
+numpy
+torch
+transformers
+accelerate
